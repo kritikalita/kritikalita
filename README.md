@@ -10,7 +10,7 @@
 
 I'm a passionate Java Developer. My goal is to leverage technology to build solutions that make a difference.
 
-- 🔭 I’m currently working on **[Project Name]**, a tool for [describe the project].
+- 🔭 I’m currently working on **QuizApp**, an app for fun, interactive quizzes.
 - 🌱 I’m currently learning **Spring Boot and other Java frameworks**.
 - 👯 I’m looking to collaborate on **open-source projects related to SpringBoot**.
 - 🤔 I’m looking for help with **making a fullstack quiz app**.
