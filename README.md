@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**kritikalita/kritikalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/kritikalita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikalita&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Your GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I’m Kriti
+
+I'm a passionate Java Developer. My goal is to leverage technology to build solutions that make a difference.
+
+- 🔭 I’m currently working on **[Project Name]**, a tool for [describe the project].
+- 🌱 I’m currently learning **Spring Boot and other Java frameworks**.
+- 👯 I’m looking to collaborate on **open-source projects related to SpringBoot**.
+- 🤔 I’m looking for help with **making a fullstack quiz app**.
+- 📫 How to reach me: [kritikalita7@gmail.com](mailto:kritikalita7@@gmail.com)
+- 😄 Pronouns: She/Her
+
+<br/>
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,aws,azure,oracle,git&perline=6" />
+  </a>
+</p>
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kritikalita" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
