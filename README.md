@@ -23,7 +23,7 @@ I'm a passionate Java Developer. My goal is to leverage technology to build solu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,aws,azure,oracle,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,aws,azure,git&perline=6" />
   </a>
 </p>
 
