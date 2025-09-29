@@ -1,6 +1,6 @@
 
 <a href="https://github.com/kritikalita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikalita&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Your GitHub Stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikalita&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
 </a>
 
 <br/>
@@ -35,8 +35,5 @@ I'm a passionate Java Developer. My goal is to leverage technology to build solu
   </a>
   <a href="https://twitter.com/your-twitter-username" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
