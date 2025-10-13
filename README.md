@@ -1,10 +1,4 @@
 
-<a href="https://github.com/kritikalita">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikalita&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-</a>
-
-<br/>
-<br/>
 
 ### 👋 Hi, I’m Kriti
 
